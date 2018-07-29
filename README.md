@@ -1,3 +1,3 @@
 # Weapon Slot Settings
 
-Base [weapon-slot-settings.cfg](./weapon-slot-settings.cfg) file.
+[weapon_slot_settings.cfg](./weapon_slot_settings.cfg)
